@@ -1,0 +1,20 @@
+# Auto-generated GitIgnore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.exe
+*.dll
+*.so
+*.dylib
+*.pkg
+build/
+dist/
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
